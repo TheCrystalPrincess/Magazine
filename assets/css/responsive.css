@@ -21,6 +21,9 @@
 		right: -650px;
 		bottom: 30px;
 	}
+	.portfolio-content h2 {
+		font-size: 18px;
+	}
 }
 @media only screen and (max-width: 1285px){
 	.news-prev,
@@ -42,6 +45,9 @@
 	}
 	.thumb-next {
 		right: -645px;
+	}
+	.portfolio-content h2 {
+		font-size: 18px;
 	}
 }
 @media only screen and (max-width: 1199px){
@@ -96,6 +102,9 @@
 	}
 	.news-prev {
 		margin-right: -620px;
+	}
+	.portfolio-content h2 {
+		font-size: 18px;
 	}
 }
 @media only screen and (max-width: 1070px){
